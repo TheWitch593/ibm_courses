@@ -7,6 +7,7 @@ Key things to check:
 - Data distribution  
 - Potential issues in the dataset  
 
+---
 
 ## Why This Step Is Important
 
@@ -16,6 +17,7 @@ Exploring the dataset helps you:
 - Understand what operations can be applied  
 - Spot issues like missing values or outliers  
 
+---
 
 ## Data Types in Pandas
 
@@ -26,6 +28,7 @@ Common data types:
 - float64 → decimal numbers  
 - datetime64 / timedelta[ns] → date and time data (covered later)  
 
+---
 
 ## Why Check Data Types
 
@@ -37,6 +40,7 @@ Common data types:
    Some functions only work with numeric data.  
    Using them on the wrong type can cause errors.
 
+---
 
 ## Checking Data Types
 
