@@ -38,7 +38,6 @@ Common data types:
    Using them on the wrong type can cause errors.
 
 
-
 ## Checking Data Types
 
 ```python
